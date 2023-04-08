@@ -1,0 +1,9 @@
+pytube
+pandas
+matplotlib
+google-auth
+google-api-python-client
+flask
+flask-cors
+pdfkit
+secure-smtplib
